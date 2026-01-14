@@ -21,6 +21,7 @@
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=js)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
