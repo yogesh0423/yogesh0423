@@ -46,11 +46,6 @@
 - ☁️ **Data Visualization** - Forage
 - 🧠 **Python Programming**
 
----
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/yogesh_patil18?theme=dark&font=Montserrat)
 
 ---
 
