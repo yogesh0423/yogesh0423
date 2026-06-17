@@ -69,19 +69,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh0423&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0423&theme=github-dark&hide_border=true" />
-</p>
-
-
----
-
 
 ## 🌐 Connect with Me
 
