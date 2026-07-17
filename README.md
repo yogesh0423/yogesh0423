@@ -33,7 +33,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
   <a href="https://www.linkedin.com/in/yogesh-patil04">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/yogeshhh04">
+  <a href="https://www.instagram.com/yogeshhpatil04">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://leetcode.com/yogesh_patil18">
