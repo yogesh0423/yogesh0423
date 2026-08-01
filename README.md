@@ -49,7 +49,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,mysql,postgres" />
 </p>
 
----
+
 
 
 <img width="1050" height="9" alt="image" src="https://github.com/user-attachments/assets/378959b4-3ceb-4227-9daf-ddc3cd58625c" />
