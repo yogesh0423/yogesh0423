@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003566,100:00509D&height=160&section=header&text=Yogesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20Aspirant%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=17&descColor=e9d5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003566,100:00509D&height=160&section=header&text=Yogesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=60&descSize=17&descColor=e9d5ff" width="100%"/>
 
 <br/>
 
@@ -39,7 +39,7 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ![SDE](https://img.shields.io/badge/SDE-001F3F?style=for-the-badge&logoColor=c084fc)
 ![Data Science](https://img.shields.io/badge/Data%20Science-001F3F?style=for-the-badge&logoColor=c084fc)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-001F3F?style=for-the-badge&logoColor=c084fc)
+![ML](https://img.shields.io/badge/Machine%20Learning-001F3F?style=for-the-badge&logoColor=c084fc)
 ![Cloud](https://img.shields.io/badge/Cloud-001F3F?style=for-the-badge&logoColor=c084fc)
 
 </td>
@@ -93,7 +93,7 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 <br/>
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyogesh0423&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=003566&labelColor=003566&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yogesh0423&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=003566&labelColor=003566&logo=github&logoColor=white)
 <br/><br/>
 ![Stars](https://img.shields.io/github/stars/yogesh0423?affiliations=OWNER&style=for-the-badge&color=003566&labelColor=003566&logo=github&logoColor=white)
 </td>
@@ -109,10 +109,8 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 💡 Philosophy
 
-> **Learn • Build • Share • Repeat**
-
+ **Learn • Build • Share • Repeat**
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003566,100:00509D&height=90&section=footer" width="100%"/>
 
 </div>
