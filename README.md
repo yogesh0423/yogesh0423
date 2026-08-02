@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/yogesh-patil04)
 [![LeetCode](https://img.shields.io/badge/LeetCode-001F3F?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogesh_patil18)
 [![Instagram](https://img.shields.io/badge/Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yogeshhpatil04)
-
 ![Location](https://img.shields.io/badge/Nashik,_India-001F3F?style=for-the-badge&logo=googlemaps&logoColor=c084fc)
 
 </div>
