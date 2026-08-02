@@ -11,11 +11,6 @@
 
 </div>
 
-<br/>
-
-<h3 align="center">
-Building scalable backend systems, AI-powered applications, and cloud-native solutions.
-</h3>
 
 <br/>
 
@@ -28,11 +23,9 @@ Building scalable backend systems, AI-powered applications, and cloud-native sol
 
 > Passionate about building software that solves real-world problems.
 
-🎓 Final Year B.E. in **Artificial Intelligence & Data Science**
+I'm a final-year Artificial Intelligence & Data Science undergraduate at SPPU.
 
-🏫 **MET Institute of Engineering, Nashik**
-
-I enjoy developing scalable backend applications, AI-powered solutions, and cloud-based systems. My focus is on writing clean code, strengthening my problem-solving skills through DSA, and continuously learning modern software engineering practices.
+My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, PostgreSQL, and AWS, and I'm continuously strengthening my skills in Data Structures & Algorithms, System Design, and ML. I believe in learning by building, with a focus on creating production-ready projects that emphasize clean code, performance, and maintainability.
 
 ### 🎯 Currently Looking For
 
