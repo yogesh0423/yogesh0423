@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=160&section=header&text=Yogesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20Aspirant%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=17&descColor=e9d5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003566,100:00509D&height=160&section=header&text=Yogesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20Aspirant%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=17&descColor=e9d5ff" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/yogesh-patil04)
-[![LeetCode](https://img.shields.io/badge/LeetCode-064E3B?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogesh_patil18)
-[![Instagram](https://img.shields.io/badge/Instagram-064E3B?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yogeshhpatil04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/yogesh-patil04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-001F3F?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogesh_patil18)
+[![Instagram](https://img.shields.io/badge/Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yogeshhpatil04)
 
-![Location](https://img.shields.io/badge/Nashik,_India-064E3B?style=for-the-badge&logo=googlemaps&logoColor=c084fc)
+![Location](https://img.shields.io/badge/Nashik,_India-001F3F?style=for-the-badge&logo=googlemaps&logoColor=c084fc)
 
 </div>
 
@@ -37,10 +37,10 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 🎯 Currently Looking For
 
-![SDE](https://img.shields.io/badge/SDE-064E3B?style=for-the-badge&logoColor=c084fc)
-![Backend](https://img.shields.io/badge/Backend-064E3B?style=for-the-badge&logoColor=c084fc)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-064E3B?style=for-the-badge&logoColor=c084fc)
-![Cloud](https://img.shields.io/badge/Cloud-064E3B?style=for-the-badge&logoColor=c084fc)
+![SDE](https://img.shields.io/badge/SDE-001F3F?style=for-the-badge&logoColor=c084fc)
+![Backend](https://img.shields.io/badge/Backend-001F3F?style=for-the-badge&logoColor=c084fc)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-001F3F?style=for-the-badge&logoColor=c084fc)
+![Cloud](https://img.shields.io/badge/Cloud-001F3F?style=for-the-badge&logoColor=c084fc)
 
 </td>
 
@@ -50,35 +50,35 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-064E3B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-001F3F?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 <br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-064E3B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-001F3F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-064E3B?style=for-the-badge&logo=flask&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-001F3F?style=for-the-badge&logo=flask&logoColor=ffffff)
 
 <br/><br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-064E3B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-064E3B?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001F3F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-001F3F?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br/><br/>
 
 ### ⚙️ Also Using
 
-![Git](https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-064E3B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 <br/>
 
-![Linux](https://img.shields.io/badge/Linux-064E3B?style=for-the-badge&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/AWS-064E3B?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-001F3F?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </td>
 
@@ -88,19 +88,19 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=yogesh0423&theme=radical&hide_border=true&background=064E3B&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=yogesh0423&theme=radical&hide_border=true&background=001F3F&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
 
 <br/>
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0423&theme=react-dark&hide_border=true&bg_color=064E3B&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0423&theme=react-dark&hide_border=true&bg_color=001F3F&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
 
 <br/>
 
 ### 📌 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh0423&show_icons=true&theme=radical&hide_border=true&bg_color=064E3B" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogesh0423&show_icons=true&theme=radical&hide_border=true&bg_color=001F3F" width="100%"/>
 
 </td>
 
@@ -117,7 +117,7 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003566,100:00509D&height=90&section=footer" width="100%"/>
 
 </div>
 
