@@ -50,35 +50,35 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-1a0933?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-1a0933?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-064E3B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-064E3B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 <br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0933?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1a0933?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-064E3B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-064E3B?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a0933?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-1a0933?style=for-the-badge&logo=flask&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-064E3B?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-064E3B?style=for-the-badge&logo=flask&logoColor=ffffff)
 
 <br/><br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0933?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-1a0933?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-064E3B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-064E3B?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br/><br/>
 
 ### ⚙️ Also Using
 
-![Git](https://img.shields.io/badge/Git-1a0933?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-1a0933?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-064E3B?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-064E3B?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 <br/>
 
-![Linux](https://img.shields.io/badge/Linux-1a0933?style=for-the-badge&logo=linux&logoColor=FCC624)
-![AWS](https://img.shields.io/badge/AWS-1a0933?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-064E3B?style=for-the-badge&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-064E3B?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </td>
 
@@ -88,19 +88,19 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=1a0933&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=064E3B&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
 
 <br/>
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=1a0933&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=064E3B&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
 
 <br/>
 
 ### 📌 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a0933" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=064E3B" width="100%"/>
 
 </td>
 
