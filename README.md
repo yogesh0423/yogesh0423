@@ -38,7 +38,7 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 ### 🎯 Currently Looking For
 
 ![SDE](https://img.shields.io/badge/SDE-001F3F?style=for-the-badge&logoColor=c084fc)
-![Backend](https://img.shields.io/badge/Backend-001F3F?style=for-the-badge&logoColor=c084fc)
+![Data Science](https://img.shields.io/badge/Data%20Science-001F3F?style=for-the-badge&logoColor=c084fc)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-001F3F?style=for-the-badge&logoColor=c084fc)
 ![Cloud](https://img.shields.io/badge/Cloud-001F3F?style=for-the-badge&logoColor=c084fc)
 
@@ -52,31 +52,22 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ![Python](https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C++-001F3F?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-
 <br/><br/>
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-001F3F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 <br/><br/>
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-001F3F?style=for-the-badge&logo=flask&logoColor=ffffff)
-
 <br/><br/>
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001F3F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-001F3F?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
 <br/><br/>
 
 ### ⚙️ Also Using
 
 ![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=2496ED)
-
 <br/>
-
 ![Linux](https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-001F3F?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
@@ -98,9 +89,14 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 <br/>
 
-### 📌 GitHub Stats
+### 📈 Quick Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh0423&show_icons=true&theme=radical&hide_border=true&bg_color=001F3F" width="100%"/>
+<br/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyogesh0423&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=003566&labelColor=003566&logo=github&logoColor=white)
+<br/><br/>
+![Stars](https://img.shields.io/github/stars/yogesh0423?affiliations=OWNER&style=for-the-badge&color=003566&labelColor=003566&logo=github&logoColor=white)
+</td>
 
 </td>
 
