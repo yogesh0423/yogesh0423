@@ -88,19 +88,19 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=064E3B&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=yogesh0423&theme=radical&hide_border=true&background=064E3B&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
 
 <br/>
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=064E3B&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0423&theme=react-dark&hide_border=true&bg_color=064E3B&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
 
 <br/>
 
 ### 📌 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=064E3B" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogesh0423&show_icons=true&theme=radical&hide_border=true&bg_color=064E3B" width="100%"/>
 
 </td>
 
