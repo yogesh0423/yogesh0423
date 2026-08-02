@@ -109,27 +109,6 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ---
 
-# 🚀 Currently Learning
-
-- 📚 Data Structures & Algorithms
-- ☁️ AWS Cloud
-- ⚙️ DevOps
-- 🏗️ System Design
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 AI Compliance & Risk Intelligence Platform | Enterprise-grade AI platform for intelligent document analysis and compliance automation | FastAPI • React • PostgreSQL • LLMs |
-| 🧠 Face Recognition System | AI-powered face search system for event photo management | Flask • OpenCV • Python |
-| 📊 Student Term Work Evaluation System | Desktop application for automated academic evaluation | Python • Tkinter • SQLite |
-| 💼 Employee Payroll Management System | Employee payroll and management application | Flask • MySQL |
-| ❤️ Heart Disease Prediction | Machine Learning model for disease prediction | Python • Scikit-Learn |
-
----
-
 <div align="center">
 
 ### 💡 Philosophy
@@ -138,7 +117,7 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0933,50:3b0764,100:581c87&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=90&section=footer" width="100%"/>
 
 </div>
-```
+
