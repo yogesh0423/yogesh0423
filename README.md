@@ -1,15 +1,14 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0933,50:3b0764,100:581c87&height=160&section=header&text=Yogesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=60&descSize=17&descColor=e9d5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=160&section=header&text=Yogesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20Aspirant%20|%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=17&descColor=e9d5ff" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0933?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/yogesh-patil04)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a0933?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogesh_patil18)
-[![Instagram](https://img.shields.io/badge/Instagram-1a0933?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yogeshhpatil04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/yogesh-patil04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-064E3B?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogesh_patil18)
+[![Instagram](https://img.shields.io/badge/Instagram-064E3B?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/yogeshhpatil04)
 
-![Location](https://img.shields.io/badge/Nashik,_India-1a0933?style=for-the-badge&logo=googlemaps&logoColor=c084fc)
+![Location](https://img.shields.io/badge/Nashik,_India-064E3B?style=for-the-badge&logo=googlemaps&logoColor=c084fc)
 
 </div>
 
@@ -38,10 +37,10 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 🎯 Currently Looking For
 
-![SDE](https://img.shields.io/badge/SDE-1a0933?style=for-the-badge&logoColor=c084fc)
-![Backend](https://img.shields.io/badge/Backend-1a0933?style=for-the-badge&logoColor=c084fc)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-1a0933?style=for-the-badge&logoColor=c084fc)
-![Cloud](https://img.shields.io/badge/Cloud-1a0933?style=for-the-badge&logoColor=c084fc)
+![SDE](https://img.shields.io/badge/SDE-064E3B?style=for-the-badge&logoColor=c084fc)
+![Backend](https://img.shields.io/badge/Backend-064E3B?style=for-the-badge&logoColor=c084fc)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-064E3B?style=for-the-badge&logoColor=c084fc)
+![Cloud](https://img.shields.io/badge/Cloud-064E3B?style=for-the-badge&logoColor=c084fc)
 
 </td>
 
@@ -89,19 +88,19 @@ I enjoy developing scalable backend applications, AI-powered solutions, and clou
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=yogesh0423&theme=radical&hide_border=true&background=1a0933&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=1a0933&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
 
 <br/>
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0423&theme=react-dark&hide_border=true&bg_color=1a0933&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=1a0933&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
 
 <br/>
 
 ### 📌 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh0423&show_icons=true&theme=radical&hide_border=true&bg_color=1a0933" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a0933" width="100%"/>
 
 </td>
 
