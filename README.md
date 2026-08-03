@@ -99,7 +99,6 @@ My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, Postgr
 
 <div align="center">
 
-### 💡 Philosophy
 
  **Learn • Build • Share • Repeat**
 <br/>
