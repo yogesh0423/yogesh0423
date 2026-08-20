@@ -71,7 +71,7 @@ My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, Postgr
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=yogesh0423&theme=radical&hide_border=true&background=001F3F&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideNums=ffffff&sideLabels=e9d5ff&dates=b794f4" width="100%"/>
+<img src="./profile/streak.svg" width="100%"/>
 
 <br/>
 
