@@ -42,24 +42,48 @@ My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, Postgr
 
 <br/>
 
+### 🧠 AI / Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=FFD43B)
+![NumPy](https://img.shields.io/badge/NumPy-001F3F?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-001F3F?style=for-the-badge&logo=pandas&logoColor=150458)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-001F3F?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-001F3F?style=for-the-badge&logo=matplotlib&logoColor=11557C)
+<br/><br/>
+
+### 🤖 Deep Learning & GenAI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-001F3F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-001F3F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-001F3F?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-001F3F?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-001F3F?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-001F3F?style=for-the-badge)
+<br/><br/>
+
+### ⚙️ Backend & Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-001F3F?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-001F3F?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 <br/><br/>
+
+### 🌐 Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-001F3F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br/><br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-001F3F?style=for-the-badge&logo=flask&logoColor=ffffff)
-<br/><br/>
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001F3F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-001F3F?style=for-the-badge&logo=mysql&logoColor=4479A1)
 <br/><br/>
 
-### ⚙️ Also Using
+### ☁️ Also Using
 
 ![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=2496ED)
-<br/>
 ![Linux](https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-001F3F?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
