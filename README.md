@@ -56,6 +56,7 @@ My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, Postgr
 ![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001F3F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-001F3F?style=for-the-badge&logo=mysql&logoColor=4479A1)
 <br/><br/>
 
 ### ⚙️ Also Using
