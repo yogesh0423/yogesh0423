@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-> Passionate about building software that solves real-world problems.
+
 
 I'm a final-year Artificial Intelligence & Data Science undergraduate at SPPU.
 
