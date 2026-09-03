@@ -77,6 +77,10 @@ My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, Postgr
 
 <br/>
 
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh0423&theme=react-dark&hide_border=true&bg_color=001F3F&color=e9d5ff&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="100%"/>
+
 
 <br/>
 
