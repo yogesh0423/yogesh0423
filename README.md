@@ -29,10 +29,11 @@ My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, Postgr
 
 ### 🎯 Currently Looking For
 
-![SDE](https://img.shields.io/badge/SDE-001F3F?style=for-the-badge&logoColor=c084fc)
-![Data Science](https://img.shields.io/badge/Data%20Science-001F3F?style=for-the-badge&logoColor=c084fc)
-![ML](https://img.shields.io/badge/Machine%20Learning-001F3F?style=for-the-badge&logoColor=c084fc)
-![Cloud](https://img.shields.io/badge/Cloud-001F3F?style=for-the-badge&logoColor=c084fc)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-001F3F?style=for-the-badge&logoColor=c084fc)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-001F3F?style=for-the-badge&logoColor=c084fc)
+![Data Scientist](https://img.shields.io/badge/Data%20Scientist-001F3F?style=for-the-badge&logoColor=c084fc)
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-001F3F?style=for-the-badge&logoColor=c084fc)
+![Software Development Engineer](https://img.shields.io/badge/SDE-001F3F?style=for-the-badge&logoColor=c084fc)
 
 </td>
 
