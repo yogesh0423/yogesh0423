@@ -25,7 +25,7 @@
 
 I'm a final-year Artificial Intelligence & Data Science undergraduate at SPPU.
 
-My technical foundation includes Python, C++, SQL, FastAPI, Flask, React, PostgreSQL, and AWS, and I'm continuously strengthening my skills in Data Structures & Algorithms, System Design, and ML. I believe in learning by building, with a focus on creating production-ready projects that emphasize clean code, performance, and maintainability.
+
 
 ### 🎯 Currently Looking For
 
